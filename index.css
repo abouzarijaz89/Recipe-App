@@ -165,7 +165,10 @@ header button {
   padding: 0 2rem;
   border-radius: 5px;
   position: relative;
+  overflow: auto;
 }
+
+
 .meal-info h1 {
   text-align: center;
 }
